@@ -1,0 +1,16 @@
+git branch 
+git init
+git add basicprogram(folder name)
+git status
+
+
+
+
+
+
+git init
+git status
+git add (to add files)
+git commit (to save changes)
+git push origin (to push)
+
