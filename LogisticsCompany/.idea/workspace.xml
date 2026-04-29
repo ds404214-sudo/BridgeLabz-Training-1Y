@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed8a2e0-5c44-406e-b5ad-27e457e52cd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/Checkpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/DeliveryCheckpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/FuelCheckpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/RestCheckpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logisticsroutetracker/RouteLinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3CysNYc4EkJuwrVsSJ30hw8JGBE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "jdbc",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/BridgeLabz/LogisticsCompany/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logisticsroutetracker.Main" />
+      <module name="LogisticsCompany" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logisticsroutetracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed8a2e0-5c44-406e-b5ad-27e457e52cd6" name="Changes" comment="" />
+      <created>1777369107179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777369107179</updated>
+    </task>
+    <servers />
+  </component>
+</project>
